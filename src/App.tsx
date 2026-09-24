@@ -1,9 +1,10 @@
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import MainLayout from './layouts/MainLayout';
-import Settings from './pages/Settings'
+import Settings from './pages/Settings';
+import MainDashboard from './pages/MainDashboard';
 import './App.css'
 
-const MainDashboard = () => <div>Halaman Dasbor Utama (Dalam Pengerjaan) </div>;
+//const MainDashboard = () => <div>Halaman Dasbor Utama (Dalam Pengerjaan) </div>;
 //const Settings = () => <div>Halaman Konfigurasi (Dalam Pengerjaan) </div>
 
 function App() {
