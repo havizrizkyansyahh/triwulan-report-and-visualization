@@ -24,7 +24,6 @@ export default function MainLayout() {
                             {/* Tampil di layar besar (Desktop/Tablet) */}
                             <span className="hidden sm:inline text-lg">Dasbor Pemantauan Pelaksanaan Kegiatan</span>
                             {/* Tampil di layar kecil (HP) */}
-                            <span className="sm:hidden text-base">Dasbor Kinerja</span>
                         </Link>
                     </div>
 
